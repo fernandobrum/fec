@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-	<addon id="plugin.video.fernandoaddon" name="Fernando EC" version="0.0.1" provider-name="Fernando EC">
+	<addon id="plugin.video.fernandoaddon" name="Fernando EC" version="0.0.2" provider-name="Fernando EC">
 		<requires>
 			<import addon="xbmc.python" version="2.19.0" />
 			<import addon="script.module.universalscrapers" version="1.0.0" />
@@ -18,7 +18,7 @@
 		<extension point="xbmc.service" library="service.py" start="[login|startup]" />
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">Conteúdos so para os amigos</summary>
-			<description lang="en">Addon para os meus conteúdos pessoais</description>
+			<description lang="en">Addon para os meus conteúdos pessoais versão 2</description>
 			<disclaimer lang="en">O autor não é responsável pelo uso deste addon. O autor não é responsável pelo conteúdo encontrado usando este addon. O autor não aloja nem possui nenhum conteúdo encontrado neste addon.[CR]O autor não está de forma alguma afiliado à Kodi, Team Kodi ou à Fundação XBMC..[CR]Este é um recurso sem fins lucrativos protegido pela doutrina de uso justo da Lei de Direitos de Autor, especificamente a secção 107, que promove a liberdade de expressão, permitindo o uso não autorizado de obras protegidas por direitos de autor.</disclaimer>
 			<platform>all</platform>
 			<website/>
